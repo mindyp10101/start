@@ -29,6 +29,7 @@ $(document).ready(function () {
   $("#no").html(textConfig.text5);
   $("#yes").html(textConfig.text6);
 
+  
   function firstQuestion() {
     $(".content").hide();
     Swal.fire({

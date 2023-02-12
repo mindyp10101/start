@@ -71,8 +71,21 @@
     ></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
     <script src="js/myJs.js"></script>
-    <iframe src="sound/Silence.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
-    <audio id="player" preload="auto" autoplay loop>
-            <source src="sound/BG.mp3" type="audio/mp3">
   </body>
+   <head>
+        <script>
+            function pageLoaded() {
+                // Speed up the audio 3x so the test doesn't take 10 seconds.
+                var audio = document.getElementById("audio");
+                audio.playbackRate = 3;
+                audio.play();
+            }
+        </script>
+    </head>
+    <body onload="pageLoaded()">
+        <audio id="audio" src="silence-long.m4a" />
+    </body>
+</html>  
+    
+    
 </html>

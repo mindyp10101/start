@@ -168,6 +168,12 @@ $(document).ready(function () {
                     left top
                     no-repeat
                   `,
+      backdrop: `
+                    rgba(800,0,123,0.4)
+                    url("img/inlove.gif")
+                    right top
+                    no-repeat
+                  `,
       showCancelButton: false,
       confirmButtonColor: "#3085d6",
       cancelButtonColor: "#d33",

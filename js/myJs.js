@@ -2,7 +2,7 @@ const textConfig = {
   text1: "Happy Belated Valentine!!!",
   text2: "MP hỏi cái này, Kiệt phải trả lời thật lòng nhaz!",
   text3: "Kiệt thích MP không??",
-  text4: "Không được nói xạo nhaz! P.S. MP cũng không có đọc được nên Kiệt cứ nói thâth LOL",
+  text4: "Không được nói xạo nhaz! P.S. MP cũng không có đọc được nên Kiệt cứ nói thật lòng ạ! LOL",
   text5: "Không muốn trả lời :)",
   text6: "Ghét lắm luôn :(",
   text7: "Sao tự nhiên lại ghét MP vậy! Ơ MP có làm gì Kiệt đâu ạ :(",
@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Tại Nhỏ MP nào đó vừa lười, vừa không ngoan, lại còn con nít, không có gì tốt hết! Ghét!!!",
   text10: "Hiểu luôn!! Thế thôi MP không phiền Kiệt nữa ạ!!!",
   text11: "P.S: Đùa chứ, Mp vẫn sẽ phiền bạn đến lúc nào đó, thang điểm thích Kiệt về 0 thì sẽ không phiền nữa ạ =))) Coi như Kiệt xui đi ah!!",
-  text12: "Happy Val linh tinh!!",
+  text12: "Happy Val linh tinh, Kiệt!!",
 };
 
 $(document).ready(function () {

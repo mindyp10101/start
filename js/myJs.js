@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text1: "Happy Belated Valentine!!!",
+  text2: "MP hỏi cái này, Kiệt phải trả lời thật lòng nhaz!",
+  text3: "Kiệt thích MP không??????",
+  text4: "Không được nói xạo nhaz, lớn rồi không ai chơi nói xạo à! P.S. MP cũng không có đọc được nên Kiệt cứ nói thâth =)))",
+  text5: "Không muốn trả lời!!",
+  text6: "Ghét lắm luôn!!",
+  text7: "Sao tự nhiên lại ghét MP vậy :((, lý do là gi vậy ạ??? Oan ghê!!!!",
+  text8: "Send!!!!",
+  text9: "Tại Nhỏ MP nào đó vừa lười, vừa không ngoan, lại còn con nít, không có gì tốt hết! Ghét!!!",
+  text10: "Hiểu luôn!! Thế thôi MP không phiền Kiệt nữa ạ!!!",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "P.S: Đùa chứ, Mp vẫn sẽ phiền bạn đến lúc nào đó, thang điểm thích Kiệt về 0 thì sẽ không phiền nữa ạ =))) Coi như Kiệt xui đi ah!!",
+  text12: "Happy Val linh tinh!!",
 };
 
 $(document).ready(function () {

@@ -1,9 +1,9 @@
 const textConfig = {
   text1: "Happy Valentine!!!",
-  text2: "MP hỏi cái này, Kiệt phải trả lời thật lòng nhaz!",
+  text2: "Round 2 nào!! Này nghiêm túc này!",
   text3: "Kiệt thích MP không??",
-  text4: "Không được nói xạo nhaz! P.S. MP cũng không có đọc được nên Kiệt cứ nói thật lòng ạ! LOL",
-  text5: "Không/Không muốn trả lời :)",
+  text4: "Lần này để Kiệt trả lời thật lòng này! Nghiêm túc, không đùa!",
+  text5: "Không/Không muốn trả lời!",
   text6: "Thích! Thích lắm luôn!",
   text7: "Ơ, thích MP sao lại không nói! Ngộ ghê! Thế thích MP chỗ nào nè? Type down please",
   text8: "Send MP the Confession",

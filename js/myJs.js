@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Happy Belated Valentine!!!",
+  text1: "Happy Valentine!!!",
   text2: "MP hỏi cái này, Kiệt phải trả lời thật lòng nhaz!",
   text3: "Kiệt thích MP không??",
   text4: "Không được nói xạo nhaz! P.S. MP cũng không có đọc được nên Kiệt cứ nói thật lòng ạ! LOL",
-  text5: "Không muốn trả lời :)",
-  text6: "Không thích chút nào hết",
-  text7: "Ơ, sao lại không thích MP? Type vào box bên dưới cho MP biết lý do đi ạ!",
-  text8: "Gởi MP result nào LOL",
-  text9: "Tại nhỏ MP nào đó vừa lười, vừa không ngoan, lại còn trẻ con, không có gì tốt hết, nên Kiệt không thích.",
-  text10: "Hiểu luôn!! Thế thôi MP xin lỗi ạ, từ nay không phiền Kiệt nữa ạ!!!",
-  text11: "P.S: Đùa chứ, Mp vẫn sẽ phiền bạn. Đến khi  thang điểm thích Kiệt về số 0 thì sẽ không phiền nữa ạ. Kiệt chịu khó 1 time nữa nha, cũng sắp hết thích Kiệt rồi ạ LOL",
-  text12: "Happy Val linh tinh, Kiệt!!",
+  text5: "Không/Không muốn trả lời :)",
+  text6: "Thích! Thích lắm luôn!",
+  text7: "Ơ, thích MP sao lại không nói! Ngộ ghê! Thế thích MP chỗ nào nè?",
+  text8: "Send MP the Confession",
+  text9: "Tại MP dễ thương nè, hát hay, học giỏi, lại còn giỏi nói chuyện nữa nè!",
+  text10: "Woahhh! Thế sao không nói sớm, MP cũng thích Kiệt lắm luôn 10/10",
+  text11: "P.S: Thích nha, không phải yêu, Kiệt đường có tưởng bở nha! Miễn cưỡng vẫn có thể cho bạn thích MP á!",
+  text12: "Valentine vui vẻ, Kiệt!!",
 };
 
 

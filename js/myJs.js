@@ -5,7 +5,7 @@ const textConfig = {
   text4: "Lần này để Kiệt trả lời thật lòng này! Nghiêm túc, không đùa!",
   text5: "Không/Không muốn trả lời!",
   text6: "Thích! Thích lắm luôn!",
-  text7: "Ơ, thích MP sao lại không nói! Ngộ ghê! Thế thích MP chỗ nào nè? Type down please",
+  text7: "Ơ, thích MP sao lại không nói! Ngộ ghê! Thế thích MP chỗ nào nè?",
   text8: "Send MP the Confession",
   text9: "Tại MP dễ thương nè, hát hay, học giỏi, lại còn giỏi nói chuyện nữa nè!",
   text10: "Woahhh! Thế sao không nói sớm, MP cũng thích Kiệt lắm luôn 10/10",

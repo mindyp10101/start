@@ -8,8 +8,8 @@ const textConfig = {
   text7: "Ơ, sao lại không thích MP? Ơ, cho MP biết lý do ạ?",
   text8: "Gởi MP result nào LOL",
   text9: "Tại nhỏ MP nào đó vừa lười, vừa không ngoan, lại còn trẻ con, không có gì tốt hết! Kiệt mới không thích!!!",
-  text10: "Hiểu luôn!! Thế thôi MP không phiền Kiệt nữa ạ!!!",
-  text11: "P.S: Đùa chứ, Mp vẫn sẽ phiền bạn đến lúc nào đó, thang điểm thích Kiệt về 0 thì sẽ không phiền nữa ạ =))) Coi như Kiệt xui đi ah!!",
+  text10: "Hiểu luôn!! Thế thôi MP xin lỗi ạ, từ nay không phiền Kiệt nữa ạ!!!",
+  text11: "P.S: Đùa chứ, Mp vẫn sẽ phiền bạn. Đến lúc nào đó, thang điểm thích Kiệt về số 0 thì sẽ không phiền nữa ạ. Cũng sắp rồi ý, nên Kiệt chịu khó 1 time nữa nha LOL. Coi như Kiệt xui đi ah!!",
   text12: "Happy Val linh tinh, Kiệt!!",
 };
 

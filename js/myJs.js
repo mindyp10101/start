@@ -163,7 +163,7 @@ $(document).ready(function () {
       html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
-                    rgba(0,0,123,0.4)
+                    rgba(400,0,123,0.4)
                     url("img/inlove.gif")
                     left top
                     no-repeat

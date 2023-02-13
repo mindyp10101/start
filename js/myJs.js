@@ -40,6 +40,22 @@ function autoplayUnlock(element) {
             resolve();
         }
     });
+var autoplayUnlockElement = document.getElementById('autoplay-unlock-overlay');
+var audioElement = document.getElementById('audio-element');
+var videoElement = document.getElementById('video-element');
+
+autoplayUnlock(autoplayUnlockElement)
+    .then(function() {
+        document.body.removeChild(autoplayUnlockElement);
+        audioElement.play();
+        videoElement.play();        
+    })
+    .catch(function(error) {
+        console.error(error);
+    });
+  
+  
+  
 }
 if(confirm("Sure you want to close the window");
 {

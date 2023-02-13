@@ -168,6 +168,12 @@ $(document).ready(function () {
                     left top
                     no-repeat
                   `,
+      backdrop: `
+                    rgba(0,0,123,0.4)
+                    url("img/heart1.gif")
+                    center
+                    no-repeat
+                  `,
     
       showCancelButton: false,
       confirmButtonColor: "#3085d6",

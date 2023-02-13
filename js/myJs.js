@@ -13,6 +13,34 @@ const textConfig = {
   text12: "Valentine vui vẻ, Kiệt!!",
 };
 
+function autoplayUnlock(element) {
+    var context = new (window.AudioContext || window.webkitAudioContext)();
+
+    return new Promise(function (resolve, reject) {
+        if (context.state === 'suspended') {
+            var unlock = function unlock() {
+                context.resume()
+                    .then(function () {
+                        window.removeEventListener('keydown', unlock);
+                        element.removeEventListener('click', unlock);
+                        element.removeEventListener('touchstart', unlock);
+                        element.removeEventListener('touchend', unlock);
+
+                        resolve();
+                    }).catch(function (error) {
+                        reject(error);
+                    });
+            };
+
+            window.addEventListener('keydown', unlock, false);
+            element.addEventListener('click', unlock, false);
+            element.addEventListener('touchstart', unlock, false);
+            element.addEventListener('touchend', unlock, false);
+        } else {
+            resolve();
+        }
+    });
+}
 if(confirm("Sure you want to close the window");
 {
      // yes return to submit function

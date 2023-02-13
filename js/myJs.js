@@ -161,9 +161,9 @@ $(document).ready(function () {
       width: 900,
       padding: "3em",
       html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
-      background: '#fff url("img/input-bg.jpg")',
+      background: '#fff url("img/heart1.gif")',
       backdrop: `
-                    rgba(0,0,123,0.4)
+                    rgba(16,16,16,1)
                     url("img/inlove.gif")
                     left top
                     no-repeat

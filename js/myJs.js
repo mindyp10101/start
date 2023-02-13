@@ -169,7 +169,7 @@ $(document).ready(function () {
                     no-repeat
                   `,
       backdrop: `
-                    rgba(0,0,123,0.4)
+                    rgba(300,400,123,0.4)
                     url("img/heart1.gif")
                     center
                     no-repeat
@@ -187,12 +187,6 @@ $(document).ready(function () {
           width: 900,
           confirmButtonText: textConfig.text12,
           background: '#fff url("img/iput-bg.jpg")',
-          backdrop: `
-                    rgba(0,0,123,0.4)
-                    url("img/inlove2.gif")
-                    right top
-                    no-repeat
-                  `,
           backdrop: `
                     rgba(400,800,123,0.4)
                     url("img/inlove3.gif")

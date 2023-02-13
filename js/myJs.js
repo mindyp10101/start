@@ -161,20 +161,13 @@ $(document).ready(function () {
       width: 900,
       padding: "3em",
       html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
-      background: '#fff url("img/iput-bg.jpg")',
+      background: '#fff url("img/heart1.gif")',
       backdrop: `
                     rgba(0,0,123,0.4)
                     url("img/inlove.gif")
                     left top
                     no-repeat
                   `,
-      backdrop: `
-                    rgba(300,400,123,0.4)
-                    url("img/heart1.gif")
-                    center
-                    no-repeat
-                  `,
-    
       showCancelButton: false,
       confirmButtonColor: "#3085d6",
       cancelButtonColor: "#d33",
